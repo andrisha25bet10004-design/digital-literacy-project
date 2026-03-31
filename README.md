@@ -11,7 +11,7 @@ This repo contains my digital literacy project which covers 5 different tasks. T
 PROJECT OVERVIEW
 This project is created as part of the Digital Literaccy course. It covers important topics such as digital awareness, building studentv digital portfolio, coding and collaboration platforkms, email etiquettes, and cybercrime awareness.
 
-TASK SUMMAEY 
+TASK SUMMARY 
 -------------------------------------------
 TASK 1 - INFOGRAPHIC
 Created a digital literacy awareness inforgraphic using Canva, and covering topics as in important digital tools.
